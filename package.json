@@ -1,0 +1,23 @@
+{
+  "name": "project-convergence",
+  "version": "1.0.0",
+  "description": "A combination writing and coding project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adbarc92/Project-Convergence.git"
+  },
+  "keywords": [
+    "Game",
+    "Isometric"
+  ],
+  "author": "Alexander D. Barclay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adbarc92/Project-Convergence/issues"
+  },
+  "homepage": "https://github.com/adbarc92/Project-Convergence#readme"
+}

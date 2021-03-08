@@ -1,0 +1,11 @@
+*.log
+node_modules/
+scratch/*.encoded.png
+scratch/*.csv
+*.zip
+dist/
+.build/
+package-lock.json
+src/main.js
+main.js
+main.js.map
